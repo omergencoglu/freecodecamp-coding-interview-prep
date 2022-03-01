@@ -11,3 +11,4 @@ All solutions are in JavaScript.
 | #   | My Solution                                                                     |
 | --- | :------------------------------------------------------------------------------ |
 | 1   | [Find the Symmetric Difference](algorithms/01-find-the-symmetric-difference.js) |
+| 2   | [Inventory Update](algorithms/02-inventory-update.js)                           |
