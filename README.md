@@ -13,3 +13,4 @@ All solutions are in JavaScript.
 | 1   | [Find the Symmetric Difference](algorithms/01-find-the-symmetric-difference.js) |
 | 2   | [Inventory Update](algorithms/02-inventory-update.js)                           |
 | 4   | [Pairwise](algorithms/04-pairwise.js)                                           |
+| 5   | [Implement Bubble Sort](algorithms/05-implement-bubble-sort.js)                 |
