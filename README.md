@@ -14,3 +14,4 @@ All solutions are in JavaScript.
 | 2   | [Inventory Update](algorithms/02-inventory-update.js)                           |
 | 4   | [Pairwise](algorithms/04-pairwise.js)                                           |
 | 5   | [Implement Bubble Sort](algorithms/05-implement-bubble-sort.js)                 |
+| 6   | [Implement Selection Sort](algorithms/06-implement-selection-sort.js)           |
