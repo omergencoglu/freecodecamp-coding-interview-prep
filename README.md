@@ -15,3 +15,4 @@ All solutions are in JavaScript.
 | 4   | [Pairwise](algorithms/04-pairwise.js)                                           |
 | 5   | [Implement Bubble Sort](algorithms/05-implement-bubble-sort.js)                 |
 | 6   | [Implement Selection Sort](algorithms/06-implement-selection-sort.js)           |
+| 7   | [Implement Insertion Sort](algorithms/07-implement-insertion-sort.js)           |
